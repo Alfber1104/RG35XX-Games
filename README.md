@@ -1,5 +1,5 @@
 # Welcome to RG35XX Interactey !
-A Simple Interaction Demo for your RG35XX Device!
+Psst... Were adding an easter eggon realese. Check ur "About Tab" on the start menu...
 
 Lite Version:
 
