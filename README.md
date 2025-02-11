@@ -1,6 +1,8 @@
 # Welcome to RG35XX Interactey !
 Psst... Were adding an easter egg on realese. Check ur "About Tab" on the start menu...
 
+Interactey Game:
+
 Lite Version:
 
 This version is free! The Lite version here is completely free and lightweight for storage!
@@ -27,3 +29,7 @@ Play and Enjoy!
 Minimum Requirements:
 A Micro SD Card At least 2GB
 An RG35XX with *OS
+
+XClicker Game:
+
+
