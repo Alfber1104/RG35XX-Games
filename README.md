@@ -1,5 +1,5 @@
 # Welcome to RG35XX Interactey !
-Psst... Were adding an easter eggon realese. Check ur "About Tab" on the start menu...
+Psst... Were adding an easter egg on realese. Check ur "About Tab" on the start menu...
 
 Lite Version:
 
